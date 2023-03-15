@@ -20,7 +20,7 @@ If you want to take a look at the api routes you may import the **fullstackdevel
 
 First of all you may clone it using
 ```
-git clone https://github.com/marcelosnts/Fullstack-Developer.git
+git clone https://github.com/jamesqw/Full-Stack-Test.git
 ```
 This will bring you all the project structure and its dependencies files, so after that run
 ```
