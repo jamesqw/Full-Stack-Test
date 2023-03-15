@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    h2 {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 32px;
+    }
+}
+
+.button-group {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+
+    margin-top: 64px;
+}

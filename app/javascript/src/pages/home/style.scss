@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    align-items: stretch;
+    height: 100vh;
+
+    aside {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 24px;
+
+        font-size: 150px;
+
+        flex: 4;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 32px;
+
+        flex: 8;
+    }
+}
+
+.sign-in, .sign-up {
+    button {
+        font-size: 32px;
+    }
+}
